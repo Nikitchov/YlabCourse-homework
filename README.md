@@ -1,2 +1,7 @@
-# YlabCourse-homework
-Homework for projects on YlabCourse
+Основной README файл.
+
+1. ДЗ №1
+2. ДЗ №2
+3. ДЗ №3
+4. ДЗ №4
+5. ДЗ №5
